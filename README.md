@@ -20,5 +20,5 @@ Dedicado ao desenvolvimento Full Stack e à criação de soluções práticas e 
 
 ## Contatos diretos
 - WhatsApp : (47) 98910-5580
-- E-mail : Theohenriquecp@gmail.com
+- E-mail : theohenriquecp@gmail.com
 
