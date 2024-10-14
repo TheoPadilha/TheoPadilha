@@ -5,7 +5,8 @@ Dedicado ao desenvolvimento Full Stack e à criação de soluções práticas e 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theopadilha?igsh=MW9sNTJ6OW5lcnc5ZQ==)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheoPadilha)
 
-![Theo GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoPadilha&show_icons=true&theme=radical&show=reviews,prs_merged)
+![Theo GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoPadilha&show_icons=true&theme=radical&prs_merged)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoPadilha&layout=compact&theme=radical)
 
 
 ### Tecnologias:
